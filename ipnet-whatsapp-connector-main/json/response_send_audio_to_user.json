@@ -1,0 +1,14 @@
+{
+  "messaging_product": "whatsapp",
+  "contacts": [
+    {
+      "input": "5521971759224",
+      "wa_id": "5521971759224"
+    }
+  ],
+  "messages": [
+    {
+      "id": "wamid.HBgNNTUyMTk3MTc1OTIyNBUCABEYEjg5M0RDODNGOUM3MTlGNzM2NgA="
+    }
+  ]
+}

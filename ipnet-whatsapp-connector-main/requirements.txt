@@ -1,0 +1,10 @@
+fastapi==0.115.11
+uvicorn==0.34.0
+httpx==0.28.1
+google-cloud-dialogflow-cx==1.40.0
+python-dotenv==1.0.1
+pydantic==2.10.6
+loguru==0.7.3
+pydub==0.25.1
+google-cloud-texttospeech==2.17.2
+aiohttp==3.11.15
