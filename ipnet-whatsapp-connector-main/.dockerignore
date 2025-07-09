@@ -1,0 +1,5 @@
+venv/
+__pycache__
+service-account.json
+deploy.sh
+.env
